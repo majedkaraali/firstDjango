@@ -4,3 +4,7 @@ from .models import *
 def all_posts(request):
 	posts = post.objects.all()
 	return render(request,'all_post.html',{'posts':posts})
+
+def base(request):
+	posts = post.objects.all()
+	return render(request,'base.html',{'posts':posts})

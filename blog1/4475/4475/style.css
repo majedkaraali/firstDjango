@@ -1,0 +1,111 @@
+﻿.table1 {
+border-left: 1px solid #000000;
+border-right: 1px solid #000000;
+border-top: 1px solid #000000;
+border-bottom: 1px solid #000000;
+}
+.table2 {
+border-left: 1px solid #000000;
+border-right: 1px solid #000000;
+border-top: 0px solid #000000;
+border-bottom: 1px solid #000000;
+}
+.table4 {
+border-left: 0px solid #000000;
+border-right: 1px solid #000000;
+border-top: 0px solid #000000;
+border-bottom: 1px solid #000000;
+}
+.table5 {
+border-left: 0px solid #000000;
+border-right: 0px solid #000000;
+border-top: 0px solid #000000;
+border-bottom: 1px solid #000000;
+}
+.table_6 {
+border-left: 1px solid #000000;
+border-right: 0px solid #000000;
+border-top: 0px solid #000000;
+border-bottom: 1px solid #000000;
+}
+.table7 {
+border-left: 0px solid #000000;
+border-right: 0px solid #000000;
+border-top: 0px solid #000000;
+border-bottom: 1px solid #000000;
+padding-top: 10px;
+}
+.tdcell1 {
+padding-top: 10px;
+}
+.tdcell2 {
+padding-top: 10px;
+padding-left: 10px;
+}
+.style1 {
+color: #000000;
+font-size: 11px;
+font-family: arial, helvetica, sans-serif;
+text-decoration: none;
+}
+.style2 {
+color: #000000;
+font-size: 11px;
+font-family: arial, helvetica, sans-serif;
+padding-top: 5px;
+}
+.style3 {
+color: #000000;
+font-size: 12px;
+font-family: arial, helvetica, sans-serif;
+text-decoration: underline;
+padding-left: 20px;
+}
+.style4 {
+color: #000000;
+font-size: 11px;
+font-family: arial, helvetica, sans-serif;
+text-decoration: none;
+padding-left: 10px;
+}
+.style5 {
+color: #000000;
+font-size: 11px;
+font-family: arial, helvetica, sans-serif;
+text-decoration: none;
+padding-left: 10px;
+padding-top: 5px;
+}
+.latestnews {
+color: #000000;
+font-size: 13px;
+font-family: arial, helvetica, sans-serif;
+text-decoration: none;
+border-bottom: 1px solid #000000;
+}
+.newgames {
+color: #000000;
+font-size: 12px;
+font-family: arial, helvetica, sans-serif;
+text-decoration: underline;
+}
+.newgamestext {
+color: #000000;
+font-size: 11px;
+font-family: arial, helvetica, sans-serif;
+text-decoration: none;
+}
+.toplink {
+	color: #000000;
+	font-size: 11px;
+	font-family: arial, helvetica, sans-serif;
+	text-decoration:none;
+	padding-left: 20px;
+}
+a.toplink:hover {
+	color: #FFFFFF;
+	font-size: 11px;
+	font-family: arial, helvetica, sans-serif;
+	text-decoration:underline;
+	padding-left: 20px;
+}
